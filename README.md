@@ -7,22 +7,19 @@ Langkah-langkah:
 1. Buka Brave Browser.
 
 
-2. Klik ikon tiga titik di sudut kanan bawah (iOS) atau kanan atas (Android) untuk membuka menu.
+2. Klik ikon tiga titik di sudut kanan bawah atau kanan atas untuk membuka menu.
 
 
 3. Pilih Settings (Pengaturan).
 
 
-4. Scroll ke bawah dan pilih Shields & privacy.
+4. Scroll ke bawah dan pilih Prisai & privacy Brave.
 
 
-5. Pilih Ad Block (Pemblokir Iklan).
+5. Pilih Penyaring Konten.
 
 
-6. Scroll ke bawah dan pilih Filters atau Custom filters.
-
-
-7. Pilih Add Custom Filter.
+6. Scroll ke bawah dan pilih Tambahkan daftar filter Khusus.
 
 
 8. Salin dan tempel tautan Adblock list ini:
@@ -49,17 +46,18 @@ Langkah-langkah:
 3. Pilih Settings (Pengaturan).
 
 
-4. Scroll ke bawah dan pilih Ad Blocker (Pemblokir Iklan).
+4. Scroll dan Pilih Umum.
 
 
-5. Pilih Custom Rules (Aturan Kustom).
+5. Pilih Blokir Iklan.
 
 
-6. Pilih opsi untuk menambahkan filter kustom dan masukkan tautan berikut:
+6. Piluh Filter Langganan dan Pilih tanda + untuk menambahkan filter kustom dan masukkan tautan berikut:
 https://raw.githubusercontent.com/random-screenshots-from-manga/Adblock-List-Judi-Online/refs/heads/main/Adblock-list-judi-online.txt
 
 
 7. Setelah menempel tautan, tekan OK atau Save untuk menyimpan pengaturan.
+
 
 
 8. Via Browser akan menggunakan daftar Adblock tersebut untuk memblokir iklan dari situs-situs judi online.
