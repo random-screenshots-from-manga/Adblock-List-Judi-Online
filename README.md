@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/random-screenshots-from-manga/Adblock-List-Jud
 
 
 
+
 2. Via Browser
 
 Langkah-langkah:
