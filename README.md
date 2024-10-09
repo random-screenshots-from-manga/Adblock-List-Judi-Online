@@ -1,6 +1,6 @@
 Berikut adalah panduan menggunakan Adblock List pada aplikasi Brave Browser atau Via Browser dengan daftar Adblock dari tautan yang kamu berikan:
 
-1. Brave Browser
+Pakai Brave Browser
 
 Langkah-langkah:
 
@@ -31,10 +31,7 @@ https://raw.githubusercontent.com/random-screenshots-from-manga/Adblock-List-Jud
 
 10. Selesai! Brave akan otomatis memblokir iklan berdasarkan daftar filter yang kamu tambahkan.
 
-
-
-
-2. Via Browser
+Pakai Via Browser
 
 Langkah-langkah:
 
