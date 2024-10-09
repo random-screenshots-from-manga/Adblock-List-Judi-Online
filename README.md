@@ -1,3 +1,7 @@
+Bahan Bahan:
+Brave Browser: https://play.google.com/store/apps/details?id=com.brave.browser
+Via Browser: https://play.google.com/store/apps/details?id=mark.via.gp
+
 Berikut adalah panduan menggunakan Adblock List pada aplikasi Brave Browser atau Via Browser dengan daftar Adblock dari tautan yang kamu berikan:
 
 Pakai Brave Browser
